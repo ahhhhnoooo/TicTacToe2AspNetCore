@@ -1,0 +1,8 @@
+c:\workspace\TicTacToe2ASPNETCore\bin\Debug\netcoreapp1.1\TicTacToe2ASPNETCore.deps.json
+c:\workspace\TicTacToe2ASPNETCore\bin\Debug\netcoreapp1.1\TicTacToe2ASPNETCore.runtimeconfig.json
+c:\workspace\TicTacToe2ASPNETCore\bin\Debug\netcoreapp1.1\TicTacToe2ASPNETCore.runtimeconfig.dev.json
+c:\workspace\TicTacToe2ASPNETCore\bin\Debug\netcoreapp1.1\TicTacToe2ASPNETCore.dll
+c:\workspace\TicTacToe2ASPNETCore\bin\Debug\netcoreapp1.1\TicTacToe2ASPNETCore.pdb
+c:\workspace\TicTacToe2ASPNETCore\obj\Debug\netcoreapp1.1\TicTacToe2ASPNETCore.AssemblyInfo.cs
+c:\workspace\TicTacToe2ASPNETCore\obj\Debug\netcoreapp1.1\TicTacToe2ASPNETCore.dll
+c:\workspace\TicTacToe2ASPNETCore\obj\Debug\netcoreapp1.1\TicTacToe2ASPNETCore.pdb
